@@ -1,0 +1,134 @@
+{
+  "templateId": "atelier",
+  "primaryColor": "#00d4ff",
+  "accentColor": "#a855f7",
+  "portfolioData": {
+    "personal": {
+      "name": "ankit raj",
+      "title": "Software Developer",
+      "email": "ankit@drapcode.com",
+      "location": "",
+      "shortBio": "this is my bio",
+      "bio": "GitHub: @ankitdrapcode"
+    },
+    "social": {
+      "github": "https://github.com/ankitdrapcode",
+      "website": "ankitcodes.tech"
+    },
+    "skills": [
+      "react",
+      "nuxt",
+      "next",
+      "vue",
+      "js",
+      "html",
+      "css"
+    ],
+    "projects": [
+      {
+        "id": "a87efa33-52ad-4761-a54f-71af30fe2fb7",
+        "title": "frontend-designs",
+        "description": "Basic frontend design using html,css, js and bootstrap for cards, landing page etc",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/ankitdrapcode/frontend-designs",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "db277da2-1e47-40b0-8d43-d87405d62bbe",
+        "title": "test-next-js",
+        "description": "GitHub repository: ankitdrapcode/test-next-js",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/ankitdrapcode/test-next-js",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "b86f04d9-e27b-4903-a15b-5c6578cb462f",
+        "title": "frontend-designs",
+        "description": "Basic frontend design using html,css, js and bootstrap for cards, landing page etc",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/ankitdrapcode/frontend-designs",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "a0173f24-3b45-490b-a591-3740fee54635",
+        "title": "test-next-js",
+        "description": "GitHub repository: ankitdrapcode/test-next-js",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/ankitdrapcode/test-next-js",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      }
+    ],
+    "experience": [
+      {
+        "id": "766692d0-a1df-4c70-b7a9-1067b8b1813e",
+        "company": "lcnc",
+        "role": "software developer",
+        "period": "2025 - Present",
+        "description": "Working as a Software Developer",
+        "current": true
+      },
+      {
+        "id": "875460b5-74c5-4de6-ac8f-b8a758bd4d82",
+        "company": "Techbeliever",
+        "role": "Software Developer",
+        "period": "2025-2025",
+        "description": "Left due to ban",
+        "current": false
+      }
+    ],
+    "education": [
+      {
+        "id": "07bad8af-9f18-47c4-8f67-d769bc8f5800",
+        "institution": "Galgotia College of engineering and Technology",
+        "degree": "MCA",
+        "period": "2022-2024",
+        "description": ""
+      },
+      {
+        "id": "a1f8d831-d854-4d1a-af62-04bb9f681e48",
+        "institution": "AS COLLEGE Deoghar",
+        "degree": "BCA",
+        "period": "2018-21",
+        "description": ""
+      }
+    ],
+    "sectionConfig": [
+      {
+        "id": "hero",
+        "type": "hero",
+        "title": "Hero Section",
+        "content": {
+          "heroStyle": "hero-default",
+          "navCtaText": "Contact Me",
+          "navBrandText": "ankit.codes"
+        },
+        "visible": true
+      }
+    ]
+  },
+  "sectionStyles": {
+    "projects": "cards",
+    "experience": "timeline",
+    "education": "timeline"
+  },
+  "sectionOrder": [
+    "projects",
+    "experience",
+    "education"
+  ],
+  "navbarStyle": "nav-glass",
+  "footerStyle": "footer-social",
+  "heroStyle": "hero-default"
+}
